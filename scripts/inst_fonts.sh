@@ -19,8 +19,8 @@ function _install_fonts() {
         ttf-hack
         ttf-hack-nerd
         ttf-roboto-mono
-
-    
+        ttf-meslo
+        ttf-meslo-nerd    
     )
 
     count=0
