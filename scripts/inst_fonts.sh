@@ -16,6 +16,9 @@ function _install_fonts() {
         ttf-cascadia-code
         ttf-jetbrains-mono
         ttf-jetbrains-mono-nerd
+        ttf-hack
+        ttf-hack-nerd
+        ttf-roboto-mono
 
     
     )
