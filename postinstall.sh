@@ -6,4 +6,6 @@ source ./scripts/global_func.sh
 source ./scripts/inst_yay.sh
 source ./scripts/base.sh
 source ./scripts/inst_fonts.sh
+source ./scripts/inst_gnome.sh
+
 
